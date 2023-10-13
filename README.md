@@ -1,4 +1,4 @@
-![logo](https://github.com/Rishi8789/Rishi8789/blob/main/coder-pictures.jpg)
+![logo](https://github.com/Rishi8789/Rishi8789/blob/main/pic.png.png)
 <h1 align="center">Hi 👋, I'm Rishi Ranjan</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_pvDM2MRviYQrujhsZSj9uVooLTtNkJyCeA&usqp=CAU" align="right"  width="500"><img/>
