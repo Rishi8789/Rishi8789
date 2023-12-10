@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **React.js,Redux,Vite**
 
 - 📫 How to reach me **rishiranjan1604@gmail.com**
+- My Linkdin **https://www.linkedin.com/in/rishi-ranjan-/**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/1DnT-Sj6k-YRreQjELo6I8EyUGt8Y0dNE](https://drive.google.com/drive/u/1/folders/1DnT-Sj6k-YRreQjELo6I8EyUGt8Y0dNE)
 
